@@ -9,3 +9,4 @@ export default class HelloWebComponent extends LightningElement {
         return `Hello ${this.greeting.toUpperCase()}!`;
     }
 }
+//test
